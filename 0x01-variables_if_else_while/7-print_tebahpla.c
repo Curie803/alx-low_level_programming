@@ -1,10 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - prints tebalpha
- * Return: 0 always
+ * main - prints numberz
+ * Return: 0 alwaya
  */
-
 int main(void)
 {
 	char ch;
@@ -15,5 +14,4 @@ int main(void)
 	}
 	putchar('\n');
 	return (0);
-
-\}
+}
