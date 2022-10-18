@@ -1,4 +1,4 @@
-#include "maion.h"
+#include "main.h"
 /**
  * print_last_digit - prints last digits
  * @value: a given value
@@ -12,7 +12,7 @@ int print_last_digit(int value)
 	if (remain < 0)
 	{
 		remain = -(remain);
-		_putchar(reamin + '0');
+		_putchar(remain + '0');
 		return (remain);
 	}
 	else
