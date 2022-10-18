@@ -2,7 +2,7 @@
 #include <stdio.h>
 /**
  * print_to_98 - print numbers to 98
- * @N: starting message
+ * @n: starting message
  *
  * Description: prints natural numbers
  *
